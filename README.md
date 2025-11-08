@@ -25,15 +25,15 @@ This project visualizes New Jersey's housing programs, including eviction preven
 housing-assistance-dashboard/
 ├─ public/
 ├─ src/
-│  ├─ app/                # Router and providers
-│  ├─ components/         # Layout, UI, and charts
-│  ├─ features/           # Business logic for programs and stats
-│  ├─ lib/                # Shared utilities and API setup
-│  ├─ mocks/              # Mock JSON data
-│  ├─ pages/              # Home, Programs, ProgramDetail
-│  ├─ tests/              # Vitest test files
-│  ├─ index.css           # Tailwind entry point
-│  ├─ main.tsx            # React entry
+│  ├─ app/                
+│  ├─ components/         
+│  ├─ features/          
+│  ├─ lib/                
+│  ├─ mocks/              
+│  ├─ pages/              
+│  ├─ tests/              
+│  ├─ index.css           
+│  ├─ main.tsx            
 │  └─ App.tsx
 ├─ .eslintrc.cjs
 ├─ .prettierrc
