@@ -1,0 +1,18 @@
+{
+  "totalPrograms": 6,
+  "byCategory": {
+    "eviction": 2,
+    "affordable_housing": 2,
+    "veterans": 1,
+    "homelessness": 1
+  },
+  "byCounty": {
+    "Mercer": 1,
+    "Middlesex": 1,
+    "Camden": 1,
+    "Hudson": 1,
+    "Somerset": 1,
+    "Burlington": 1
+  },
+  "updatedAt": "2025-01-15T00:00:00Z"
+}

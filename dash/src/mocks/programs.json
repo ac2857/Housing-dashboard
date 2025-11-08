@@ -1,0 +1,89 @@
+[
+  {
+    "id": "prog-001",
+    "name": "Mercer County Eviction Prevention Fund",
+    "category": "eviction",
+    "county": "Mercer",
+    "city": "Trenton",
+    "address": "123 State St, Trenton, NJ",
+    "phone": "609-555-1010",
+    "website": "https://example.org/mercer-eviction",
+    "eligibility": "Households at or below 80% AMI facing eviction; proof of residency required.",
+    "howToApply": "Complete the online form and upload required documents.",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "lastUpdated": "2025-01-10T00:00:00Z"
+  },
+  {
+    "id": "prog-002",
+    "name": "NJ Affordable Housing Lottery - Middlesex",
+    "category": "affordable_housing",
+    "county": "Middlesex",
+    "city": "New Brunswick",
+    "phone": "732-555-2222",
+    "website": "https://example.org/middlesex-ah",
+    "eligibility": "Low-to-moderate income households; background check.",
+    "howToApply": "Register for the lottery and submit income verification.",
+    "languages": [
+      "en"
+    ],
+    "lastUpdated": "2025-01-02T00:00:00Z"
+  },
+  {
+    "id": "prog-003",
+    "name": "Veterans Transitional Housing - Camden",
+    "category": "veterans",
+    "county": "Camden",
+    "city": "Camden",
+    "website": "https://example.org/camden-vets",
+    "eligibility": "Honorably discharged veterans experiencing homelessness.",
+    "howToApply": "Call to schedule intake interview.",
+    "languages": [
+      "en"
+    ],
+    "lastUpdated": "2025-01-05T00:00:00Z"
+  },
+  {
+    "id": "prog-004",
+    "name": "Hudson Rapid Re-Housing",
+    "category": "homelessness",
+    "county": "Hudson",
+    "city": "Jersey City",
+    "phone": "201-555-4444",
+    "eligibility": "Individuals and families experiencing homelessness.",
+    "howToApply": "Referral through local Continuum of Care.",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "lastUpdated": "2025-01-12T00:00:00Z"
+  },
+  {
+    "id": "prog-005",
+    "name": "Somerset Rental Assistance",
+    "category": "eviction",
+    "county": "Somerset",
+    "city": "Somerville",
+    "eligibility": "Rent-burdened tenants with notice to quit.",
+    "howToApply": "Apply via county portal.",
+    "languages": [
+      "en"
+    ],
+    "lastUpdated": "2025-01-08T00:00:00Z"
+  },
+  {
+    "id": "prog-006",
+    "name": "Burlington Affordable Housing Units",
+    "category": "affordable_housing",
+    "county": "Burlington",
+    "city": "Mt. Holly",
+    "eligibility": "Income-qualified applicants per COAH rules.",
+    "howToApply": "Join the waiting list online.",
+    "languages": [
+      "en"
+    ],
+    "lastUpdated": "2025-01-15T00:00:00Z"
+  }
+]
